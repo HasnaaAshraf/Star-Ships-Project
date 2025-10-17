@@ -1,0 +1,33 @@
+
+.container {
+  color: white;
+}
+
+.starship-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #00bcd4;
+  background-color: #34495e;
+}
+
+.SearchDiv{
+ position: relative;
+  z-index: 10;
+  opacity: 1;
+}
+
+.nextAndpreviousDiv{
+   position: relative;
+}
+
+.disabled-btn {
+  opacity: 0.5; 
+  cursor: not-allowed;
+  border-color: #999;
+}
+
+@media (max-width: 768px) {
+  .starship-card {
+    margin: 0 auto;
+  }
+}
+

@@ -1,0 +1,36 @@
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\appsettings.Development.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\appsettings.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Bondo Challenge.staticwebassets.endpoints.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Bondo Challenge.exe
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Bondo Challenge.deps.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Bondo Challenge.runtimeconfig.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Bondo Challenge.dll
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Bondo Challenge.pdb
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.csproj.AssemblyReference.cache
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.AssemblyInfoInputs.cache
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.AssemblyInfo.cs
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.csproj.CoreCompileInputs.cache
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.MvcApplicationPartsAssemblyInfo.cs
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.MvcApplicationPartsAssemblyInfo.cache
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\scopedcss\bundle\Bondo Challenge.styles.css
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets.build.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets.development.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets\msbuild.Bondo Challenge.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets\msbuild.Bondo Challenge.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets\msbuild.build.Bondo Challenge.props
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bondo Challenge.props
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bondo Challenge.props
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Ch.B921B456.Up2Date
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.dll
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\refint\Bondo Challenge.dll
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.pdb
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\Bondo Challenge.genruntimeconfig.cache
+E:\Hasnaa\Bondo Challenge\Bondo Challenge\Bondo Challenge\obj\Debug\net8.0\ref\Bondo Challenge.dll

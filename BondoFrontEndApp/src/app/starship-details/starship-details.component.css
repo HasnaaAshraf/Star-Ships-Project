@@ -1,0 +1,31 @@
+
+.container{
+    margin-top: 5rem !important;
+    margin-left: 5rem !important;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.starship-card {
+    cursor: default;
+}
+
+.btn-close{
+   background-color: #00d8ff !important;
+   margin-left: 10rem;
+}
+
+.CardLeft{
+    margin-left: 4rem;
+}
+
+.CardRight{
+    margin-left: 7rem;
+}
+
+@media (max-width: 768px) {
+  .container {
+    margin-left: auto !important;
+  }
+}

@@ -1,0 +1,6 @@
+@Bondo_Challenge_HostAddress = http://localhost:5285
+
+GET {{Bondo_Challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

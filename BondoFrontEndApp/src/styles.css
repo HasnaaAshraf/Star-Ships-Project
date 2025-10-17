@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('assets/images/1600w-9NYkXKNDGeY.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  opacity: 0.7; 
+  position: relative;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  pointer-events: none;
+}
+
+.starship-card {
+  background-color: #2c3e50;
+  border: 1px solid #00bcd4;
+  border-radius: 15px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.card-title {
+  color: #00d8ff;
+}
+
+.card-text {
+  color: #e0e0e0;
+}

@@ -1,0 +1,30 @@
+
+<div class="container m-3 text-center" *ngIf="starships">
+ <div class="row d-flex justify-content-center mt-5">
+   <div class="col-md-11 card starship-card h-100 text-center ">
+     <div class="">
+      <div class="alert alert-dismissible mt-4">
+         <h3 class="card-title fw-bold ">{{ starships.name }}</h3>
+         <button type="button" class="btn-close" data-bs-dismiss="alert" (click)="goBackToStarships()"></button>
+      </div>
+      <div class="card-body d-flex fs-5 mb-5 mt-4" style="text-align: left;">
+          <div class="CardLeft col-md-4 ">
+            <p class="card-text mb-4"><strong>Model:</strong> {{ starships.model }}</p>
+            <p class="card-text mb-4"><strong>Manufacturer:</strong> {{ starships.manufacturer }}</p>
+            <p class="card-text mb-4"><strong>StarShips Class:</strong> {{ starships.starship_class }}</p>
+            <p class="card-text mb-4"><strong>Cost in Credits:</strong> {{ starships.cost_in_credits }}</p>
+            <p class="card-text"><strong>Cargo Capacity:</strong> {{ starships.cargo_capacity }}</p>
+          </div>
+          <div class="CardRight col-md-4 ">
+            <p class="card-text mb-4"><strong>Length:</strong> {{ starships.length }}</p>
+            <p class="card-text mb-4"><strong>Max Speed:</strong> {{ starships.max_atmosphering_speed }}</p>
+            <p class="card-text"><strong>Crew:</strong> {{ starships.crew }}</p>
+            <p class="card-text"><strong>Passengers:</strong> {{ starships.passengers }}</p>
+            <p class="card-text"><strong>Consumables:</strong> {{ starships.consumables }}</p>
+            <p class="card-text"><strong>Hyperdrive Rating:</strong> {{ starships.hyperdrive_rating }}</p>
+          </div>
+      </div>
+     </div>
+   </div>
+ </div>
+</div>

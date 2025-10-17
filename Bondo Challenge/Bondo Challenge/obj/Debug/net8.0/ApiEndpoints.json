@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Bondo_Challenge.Controllers.StarshipsController",
+    "Method": "GetAllStarships",
+    "RelativePath": "api/Starships",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bondo_Challenge.Controllers.StarshipsController",
+    "Method": "GetStarshipById",
+    "RelativePath": "api/Starships/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
